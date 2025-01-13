@@ -1,0 +1,1 @@
+Project for the exam "Sicurezza dei Dati" based on a Blockchain Marketplace where you can sell your physical cards. Before starting the project, you have to download Ganache and start a new blockchain with the truffle-config file that you can find in the project. Indeed, you have to install ipfs daemon ( I used brew) for saving your images.
