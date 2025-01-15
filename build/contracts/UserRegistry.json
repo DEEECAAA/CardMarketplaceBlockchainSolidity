@@ -10133,12 +10133,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0xA48C9a8A06BfF754d1C2F6BA54Ce23Ee2160EcFd",
-      "transactionHash": "0x13341ab16195d05448815e753f2a8db17671cfc044ca384de4f6ab690697555f"
+      "address": "0x7A153D52C33e1dF47eBda0B3D2a0e4976224200C",
+      "transactionHash": "0xaec73a6db816714e94d25f9b470cd5dde5786c650014e55e8708d6b85d659596"
     }
   },
   "schemaVersion": "3.4.16",
-  "updatedAt": "2025-01-13T20:01:42.967Z",
+  "updatedAt": "2025-01-15T16:41:28.350Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",

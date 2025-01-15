@@ -15,7 +15,7 @@ const BuyCard = () => {
   const web3 = new Web3(window.ethereum);
   const cardMarketplace = new web3.eth.Contract(
     CardMarketplaceABI.abi,
-    "0x78aaC4675B43081dA3EF60BDc9D6d92145b54bc3"
+    "0xB245960C53B68B6D45CBc1A4Dc4d87b3f456552d"
   );
 
   useEffect(() => {

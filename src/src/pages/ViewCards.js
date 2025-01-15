@@ -16,7 +16,7 @@ const ViewCards = () => {
 
   const web3 = new Web3(window.ethereum);
   const userRegistryAddress = "0x4Ee38eeFd245f750eE80117E298a58101F818Ad6";
-  const cardMarketplaceAddress = "0x78aaC4675B43081dA3EF60BDc9D6d92145b54bc3";
+  const cardMarketplaceAddress = "0x7A153D52C33e1dF47eBda0B3D2a0e4976224200C";
   const userRegistry = new web3.eth.Contract(UserRegistryABI.abi, userRegistryAddress);
   const cardMarketplace = new web3.eth.Contract(CardMarketplaceABI.abi, cardMarketplaceAddress);
 
