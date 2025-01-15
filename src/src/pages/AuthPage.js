@@ -13,7 +13,7 @@ const AuthPage = ({ onLogin }) => {
 
   const navigate = useNavigate();
 
-  const userRegistryAddress = "0x7A153D52C33e1dF47eBda0B3D2a0e4976224200C";
+  const userRegistryAddress = "0x468Aea88DC5746f02812c0251C2C40f586A50A5B";
   const web3 = new Web3(window.ethereum);
   const userRegistry = new web3.eth.Contract(UserRegistryABI.abi, userRegistryAddress);
 

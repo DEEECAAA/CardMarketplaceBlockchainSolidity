@@ -27827,12 +27827,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0xB245960C53B68B6D45CBc1A4Dc4d87b3f456552d",
-      "transactionHash": "0x9e5503c02654dee22d15e4db3035a621fd4223c10f068f207d7dfd50a4936ec6"
+      "address": "0xBBaC9d3AdA7f199A4D7172B65fD5B91Ee1C9D500",
+      "transactionHash": "0x59bc5686b94bf325fda0a52afca9a91481195c43ec52504cb08db3a85ecc1526"
     }
   },
   "schemaVersion": "3.4.16",
-  "updatedAt": "2025-01-15T16:41:28.359Z",
+  "updatedAt": "2025-01-15T16:56:44.518Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",
