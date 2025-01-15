@@ -15,7 +15,7 @@ const CreateCard = () => {
   const defaultIpfsHash = "QmWfCGa8fu1qYgkZDbVtr3Eye1wsPTmHSPkJChXB23khK6";
 
   const web3 = new Web3(window.ethereum);
-  const cardMarketplaceAddress = "0x0D63Dd223c0f3840f77990209b42d51Ae2Da1Be9";
+  const cardMarketplaceAddress = "0x78aaC4675B43081dA3EF60BDc9D6d92145b54bc3";
   const cardMarketplace = new web3.eth.Contract(cardMarketplaceABI.abi, cardMarketplaceAddress);
 
   const ipfs = create({ url: "http://127.0.0.1:5001" });
